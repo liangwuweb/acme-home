@@ -1,0 +1,47 @@
+.nav-menu {
+  width: 100%;
+  background: #fff;
+  border-bottom: 20px solid #001254;
+  padding-top: 40px;
+  padding-bottom: 25px;
+
+  img {
+    width: 140px;
+  }
+
+  .title {
+    display: inline-block;
+
+    h1 {
+      color: #193989;
+      line-height: 37px;
+      height: 35px;
+    }
+
+    h6 {
+      color: #009bfa;
+    }
+
+    padding-right: 50px;
+    border-right: 2px solid #ccc;
+  }
+
+  .link {
+    display: inline-block;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+    padding-top: 100px;
+
+  }
+}
+
+  .hero {
+    height: 533px;
+    background-image: url(../assets/hero.png);
+    background-repeat: none;
+    background-size: 100%;
+    background-position-y: 15%;
+  }
